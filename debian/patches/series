@@ -1,0 +1,7 @@
+no-install-data.diff
+no-google-analytics.diff
+no-distribute_setup.diff
+disable-unstable-tests.diff
+python3.5-qualname.diff
+coverage4.1.diff
+python3.6-modulenotfounderror.diff
